@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/weaveworks/helloworld:master-07a1b6b
+        image: 102184001161.dkr.ecr.us-east-1.amazonaws.com/template/samplemicroservice:0.024
         args:
         - -msg=Lebowski
         ports:
