@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: 102184001161.dkr.ecr.us-east-1.amazonaws.com/template/samplemicroservice:0.024
+        image: 102184001161.dkr.ecr.us-east-1.amazonaws.com/template/samplemicroservice
         args:
         - -msg=Lebowski
         ports:
