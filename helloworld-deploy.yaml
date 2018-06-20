@@ -17,7 +17,7 @@ spec:
       - name: helloworld
         image: quay.io/weaveworks/helloworld:master-07a1b6b
         args:
-        - -msg=Lebowski
+        - -msg=Team Lebowski
         ports:
         - containerPort: 80
       - name: sidecar
