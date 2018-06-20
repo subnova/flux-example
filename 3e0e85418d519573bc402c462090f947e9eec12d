@@ -1,0 +1,1 @@
+{"jobID":"983652e8-1fe7-e972-e5a7-16abd8bb3abc","spec":{"type":"policy","cause":{"Message":"Flux auto-update","User":"Dale Peakall \u003cdale.peakall.1@lexisnexis.co.uk\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
