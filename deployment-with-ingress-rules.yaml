@@ -57,7 +57,7 @@ metadata:
     kubernetes.io/ingress.class: nginx
 spec:
   rules:
-  - host: simple-sandbox.test.us-east-1.daleaws.com
+  - host: simple-sandbox.test.us-east-1.daleaws.co.uk
     http:
       paths: 
       - path: /api
