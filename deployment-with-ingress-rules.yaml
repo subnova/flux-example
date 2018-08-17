@@ -54,7 +54,7 @@ metadata:
   labels:
     app: samplemicroservice
   annotations:
-    kubernetes.io/ingress.class: nginx
+    kubernetes.io/ingress.class: external
 spec:
   rules:
   - host: simple-sandbox.test.us-east-1.daleaws.co.uk
